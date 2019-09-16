@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "841978392417",
+    "firebase_url": "https://wellywood-3f459.firebaseio.com",
+    "project_id": "wellywood-3f459",
+    "storage_bucket": "wellywood-3f459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841978392417:android:ecde2837b4ac908ea01f20",
+        "android_client_info": {
+          "package_name": "com.company.wellywood_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841978392417-n8t8g2jqnleve8n1v0ek2q8j2ifonf9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2VnAX8smJsuzvEgjsbdvevErZoDhWCnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841978392417-n8t8g2jqnleve8n1v0ek2q8j2ifonf9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841978392417:android:c2b187bd83b697eda01f20",
+        "android_client_info": {
+          "package_name": "com.example.wellywood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841978392417-n8t8g2jqnleve8n1v0ek2q8j2ifonf9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2VnAX8smJsuzvEgjsbdvevErZoDhWCnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841978392417-n8t8g2jqnleve8n1v0ek2q8j2ifonf9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841978392417:android:466fc578bfd4cfd9a01f20",
+        "android_client_info": {
+          "package_name": "com.example.wellywood_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841978392417-lvbu5mgr1fqtvnkfk4teogtnovn5qn5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wellywood_kotlin",
+            "certificate_hash": "a904b5ffc3e98c50817f467b1291060e75d527ff"
+          }
+        },
+        {
+          "client_id": "841978392417-n8t8g2jqnleve8n1v0ek2q8j2ifonf9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2VnAX8smJsuzvEgjsbdvevErZoDhWCnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841978392417-n8t8g2jqnleve8n1v0ek2q8j2ifonf9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
