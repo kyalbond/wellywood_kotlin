@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">wellywood_kotlin</string>
+
+
+    <string name="email">Email</string>
+    <string name="email_hint">Please enter your email</string>
+
+    <string name="password">Password</string>
+    <string name="password_hint">Please enter your password.</string>
+
+
+    <string name="login">Login</string>
+    <string name="logo">App Logo</string>
 </resources>
